@@ -1,0 +1,19 @@
+{
+  "name": "vogtn",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogtn/nodeschool-How-to-Npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vogtn/nodeschool-How-to-Npm/issues"
+  },
+  "homepage": "https://github.com/vogtn/nodeschool-How-to-Npm#readme"
+}
